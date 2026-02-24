@@ -75,4 +75,5 @@ public class Cliente {
     public void setData_cadastro(String data_cadastro) {
         this.data_cadastro = data_cadastro;
     }
+
 }
